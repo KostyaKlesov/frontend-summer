@@ -121,6 +121,7 @@ h2.header-text{
   height: 340px;
   width: 420px;
   margin-top: 30px;
+  border-radius: 4px;
 }
 
 .activity-wrap{
