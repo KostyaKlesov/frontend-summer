@@ -78,7 +78,7 @@ img {
 
 .navbar-links-item {
   font-size: 20px;
-  color: white;
+  color: blue;
   transition: 0.3s;
   text-decoration: none;
 }
@@ -93,13 +93,13 @@ img {
   font-size: 4.5rem;
   text-align: center;
   margin-top: 320px;
-  color: white;
+  color: blue;
   font-family: Apple Chancery, cursive;
 }
 
 .navbar-conctants-phone {
   margin-right: 20px;
-  color: white;
+  color: blue;
   font-size: 25px;
   font-weight: 700;
   text-decoration: none;
